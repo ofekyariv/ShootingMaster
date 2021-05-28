@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".InstructionsActivity"
+    android:background="@drawable/backgame"
+    android:orientation="vertical">
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="הוראות"
+        android:textColor="@color/white"
+        android:gravity="center"
+        android:fontFamily="monospace"
+        android:textSize="50sp"/>
+
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="10dp"
+        android:fontFamily="monospace"
+        android:gravity="center"
+        android:text="ישנם ספינות שבאות לתקוף אותנוהם יזוז על המסך וירו לכיונך בצורה רנדומלית. צשמצשמ בכישוריך ותזיז את הספינה כדי להיתחמק ולפגוע בשאר הספינות.אבל תיזהר יכול להיפגע רק מ 3 יריות עם תיפגע אתה יותר פעמים מיזה אתה תיפסל"
+        android:textColor="@color/white"
+        android:textSize="22sp" />
+
+
+</LinearLayout>

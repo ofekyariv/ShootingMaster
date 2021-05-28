@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "24473394254",
+    "firebase_url": "https://shootingmaster-a8603-default-rtdb.firebaseio.com",
+    "project_id": "shootingmaster-a8603",
+    "storage_bucket": "shootingmaster-a8603.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:24473394254:android:e730b0627b6ed6c709f71f",
+        "android_client_info": {
+          "package_name": "ori.project.shootingmaster"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "24473394254-t8da4d61dfnnq0g1tctastsks933mgao.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "ori.project.shootingmaster",
+            "certificate_hash": "cd9a74fa900d189179245d2ceafc3cf857f1ac07"
+          }
+        },
+        {
+          "client_id": "24473394254-hkbrp28qdqlr7k3mekk4ptv846eptv6s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCSsni0h4m2hKjPSX2ZTk0lq_UT9kbHNpI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "24473394254-hkbrp28qdqlr7k3mekk4ptv846eptv6s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
